@@ -1,0 +1,11 @@
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\ReadXMLfromFile\ReadXMLfromFile\bin\Debug\netcoreapp3.0\ReadXMLfromFile.exe
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\ReadXMLfromFile\ReadXMLfromFile\bin\Debug\netcoreapp3.0\ReadXMLfromFile.deps.json
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\ReadXMLfromFile\ReadXMLfromFile\bin\Debug\netcoreapp3.0\ReadXMLfromFile.runtimeconfig.json
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\ReadXMLfromFile\ReadXMLfromFile\bin\Debug\netcoreapp3.0\ReadXMLfromFile.runtimeconfig.dev.json
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\ReadXMLfromFile\ReadXMLfromFile\bin\Debug\netcoreapp3.0\ReadXMLfromFile.dll
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\ReadXMLfromFile\ReadXMLfromFile\bin\Debug\netcoreapp3.0\ReadXMLfromFile.pdb
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\ReadXMLfromFile\ReadXMLfromFile\obj\Debug\netcoreapp3.0\ReadXMLfromFile.csprojAssemblyReference.cache
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\ReadXMLfromFile\ReadXMLfromFile\obj\Debug\netcoreapp3.0\ReadXMLfromFile.AssemblyInfoInputs.cache
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\ReadXMLfromFile\ReadXMLfromFile\obj\Debug\netcoreapp3.0\ReadXMLfromFile.AssemblyInfo.cs
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\ReadXMLfromFile\ReadXMLfromFile\obj\Debug\netcoreapp3.0\ReadXMLfromFile.dll
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\ReadXMLfromFile\ReadXMLfromFile\obj\Debug\netcoreapp3.0\ReadXMLfromFile.pdb
